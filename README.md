@@ -22,4 +22,4 @@
 - Gestures Example
 - StackNavigator Example
 - SwitchNavigator Example
-- BottomTabNavigator Example.
+- BottomTabNavigator Example
