@@ -1,5 +1,4 @@
 # react-native-express-practice
-# react-native-express-practice
 
 - Expo + galio-framework + React Navigation v4
 - macOS
